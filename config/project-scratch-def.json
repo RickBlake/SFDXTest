@@ -1,6 +1,7 @@
 {
     "orgName": "riblake13 Company",
     "edition": "Developer",
+    "features": "DebugApex",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }
