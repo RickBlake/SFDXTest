@@ -32,42 +32,42 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default",
             "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1508151727000,
+            "changeTime": 1508151727000,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c",
             "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1508156645000,
-            "changeTime": 1508156645000,
-            "contentHash": "0d85baeb19b9dddf5579e3be5db8ecda398c1686"
+            "state": "u"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1508156037000,
             "changeTime": 1508156037000,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1508150854000,
             "changeTime": 1508150854000,
-            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95"
         }
     ],
     [
@@ -125,53 +125,53 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 4370,
+            "modifiedTime": 1508150514000,
+            "changeTime": 1508150514000,
+            "contentHash": "116006817993cae3c7d4a2ef2e0003e19855ee49",
             "isMetadataFile": true,
-            "size": 4457,
-            "modifiedTime": 1508156645000,
-            "changeTime": 1508156645000,
-            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
+            "state": "u"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 17170,
+            "modifiedTime": 1508150514000,
+            "changeTime": 1508150514000,
+            "contentHash": "caa1648dab5731e0073b3c1ddeb5a4941f5b3915",
             "isMetadataFile": true,
-            "size": 17256,
-            "modifiedTime": 1508156645000,
-            "changeTime": 1508156645000,
-            "contentHash": "ffd6d3373d5b87a5161302a5ae3e9f5cf2bcb0b4"
+            "state": "u"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 4710,
+            "modifiedTime": 1508150514000,
+            "changeTime": 1508150514000,
+            "contentHash": "484e5665b7797b82b4ac3bb52b4f8696c5d6e184",
             "isMetadataFile": true,
-            "size": 4797,
-            "modifiedTime": 1508156645000,
-            "changeTime": 1508156645000,
-            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
+            "state": "u"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 4374,
+            "modifiedTime": 1508150514000,
+            "changeTime": 1508150514000,
+            "contentHash": "764f0405a9678eca802cc79f06762161f354d647",
             "isMetadataFile": true,
-            "size": 4461,
-            "modifiedTime": 1508156645000,
-            "changeTime": 1508156645000,
-            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
+            "state": "u"
         }
     ],
     [
@@ -294,118 +294,92 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1508156037000,
             "changeTime": 1508156037000,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 176,
-            "modifiedTime": 1508156519000,
-            "changeTime": 1508156519000,
-            "contentHash": "a1e5d7e923e770412ad41c787cdeb1870a4df2c4",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 145,
+            "modifiedTime": 1508156094000,
+            "changeTime": 1508156094000,
+            "contentHash": "64444514e2739f172db3d8340ec58f05c75bdbc9"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1508156037000,
             "changeTime": 1508156037000,
-            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 129,
             "modifiedTime": 1508156123000,
             "changeTime": 1508156123000,
-            "contentHash": "ecdead5759f017516b858fce49f93df1b483ebc9",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ecdead5759f017516b858fce49f93df1b483ebc9"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1508156037000,
             "changeTime": 1508156037000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1508156037000,
             "changeTime": 1508156037000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1508156037000,
             "changeTime": 1508156037000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 272,
-            "modifiedTime": 1508156645000,
-            "changeTime": 1508156645000,
-            "contentHash": "824eae2c0009870d1e8687d4b87b2a9bdaf4e761"
-        }
-    ],
-    [
-        "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/tabs",
-        {
-            "state": "u",
-            "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1508156645000,
-            "changeTime": 1508156645000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
