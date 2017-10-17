@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "test 1",
+            "Location__Latitude__s": 23.36,
+            "Location__Longitude__s": 45.123
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "test 2",
+            "Location__Latitude__s": 11.988,
+            "Location__Longitude__s": 87.8797
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "test 3",
+            "Location__Latitude__s": 12.123,
+            "Location__Longitude__s": 54.456
+        }
+    ]
+}
