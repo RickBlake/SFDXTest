@@ -2,7 +2,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -77,7 +77,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -107,7 +107,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -122,7 +122,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -152,7 +152,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -167,7 +167,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -182,7 +182,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -197,7 +197,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -212,7 +212,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -227,7 +227,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -242,7 +242,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -272,7 +272,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -287,7 +287,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -302,7 +302,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -317,7 +317,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -332,7 +332,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -347,7 +347,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -362,7 +362,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -377,7 +377,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -392,7 +392,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -407,7 +407,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -422,7 +422,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -437,7 +437,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -452,7 +452,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -467,7 +467,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -482,7 +482,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountsLoaded",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountsLoaded",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -497,7 +497,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -512,7 +512,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -527,7 +527,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/classes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/classes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -542,7 +542,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -557,7 +557,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -572,7 +572,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/layouts",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -587,7 +587,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -602,7 +602,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/objects",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/objects",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -617,7 +617,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -632,7 +632,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -647,7 +647,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -662,7 +662,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -677,7 +677,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/permissionsets/Debug_Apex.permissionset-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/permissionsets/Debug_Apex.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -692,7 +692,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -707,7 +707,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -722,7 +722,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -737,7 +737,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -752,7 +752,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -767,7 +767,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -782,7 +782,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -797,7 +797,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -812,7 +812,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -827,7 +827,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -842,7 +842,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -857,7 +857,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -872,7 +872,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -887,7 +887,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -902,7 +902,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -917,7 +917,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -932,7 +932,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -947,7 +947,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -962,7 +962,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -977,7 +977,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/tabs",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -992,7 +992,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1007,7 +1007,7 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation",
             "isDirectory": true,
             "isMetadataFile": false,

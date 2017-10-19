@@ -181,11 +181,11 @@
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 126,
-            "modifiedTime": 1508240338000,
-            "changeTime": 1508240338000,
+            "size": 127,
+            "modifiedTime": 1508245016000,
+            "changeTime": 1508245016000,
             "isWorkspace": false,
-            "contentHash": "82d12d2803ffc7c1db4ceb9e71bfd86495c47e6a"
+            "contentHash": "d7f097f5ee05e95880a8aeab294ffd16269772ca"
         }
     ],
     [
@@ -385,15 +385,15 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "size": 349,
-            "modifiedTime": 1508237574000,
-            "changeTime": 1508237574000,
-            "contentHash": "f776b536e75543270323dc0e74c80ded1c0f4846",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 436,
+            "modifiedTime": 1508424292000,
+            "changeTime": 1508424292000,
+            "isWorkspace": false,
+            "contentHash": "0eef7e3bd4f9046f22894551f9c9ead6ca8cb65d"
         }
     ],
     [
@@ -606,15 +606,15 @@
     [
         "/Users/riblake13/Documents/GeoLocation/geolocation",
         {
+            "state": "u",
             "sourcePath": "/Users/riblake13/Documents/GeoLocation/geolocation",
             "isDirectory": true,
-            "size": 374,
-            "modifiedTime": 1508236305000,
-            "changeTime": 1508236305000,
-            "contentHash": "e56b633cf8722c7e35769a3c9a15e358ce86cbba",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true
+            "size": 408,
+            "modifiedTime": 1508422720000,
+            "changeTime": 1508422720000,
+            "isWorkspace": true,
+            "contentHash": "faa5e1f4de53281eb4276f52f573a2b468bcd302"
         }
     ],
     [
